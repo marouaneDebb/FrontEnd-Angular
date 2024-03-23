@@ -1,14 +1,2 @@
 
-// application.prop
-
-spring.datasource.url=jdbc:mysql://localhost:3306/angulardatabase
-
-spring.datasource.username=root
-
-spring.datasource.password=maro@0667
-
-spring.jpa.show-sql=true
-
-spring.jpa.hibernate.ddl-auto=create-drop
-
-spring.jpa.proprties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
+![2](https://github.com/marouaneDebb/Front_End-IPTV-build-/assets/128589859/78479ae6-6157-494c-8dd0-4898399efd25)
